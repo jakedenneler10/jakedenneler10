@@ -1,5 +1,7 @@
 ## Hi there 👋! Im Jacob Hall
-# laksdf;
+### Introduction
+#### I am a student at Fort Hays Tech | Northwest, working hard to refine my skills in full-stack application and web development. I can manage teams in high pressure work environments. I have a Swift Associate Certification and take pride in my skills with front-end design. I am interested in building websites and applications, and eventually start building video games! 
+
 
 <!--
 **jakedenneler10/jakedenneler10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
