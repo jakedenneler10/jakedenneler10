@@ -1,4 +1,4 @@
-## Hi there 👋! Im Jacob Hall
+## Hi there 👋! I'm Jacob Hall
 ### Introduction
 #### I am a student at Fort Hays Tech | Northwest, working hard to refine my skills in full-stack application and web development. I can manage teams in high pressure work environments. I have a Swift Associate Certification and take pride in my skills with front-end design. I am interested in building websites and applications, and eventually start building video games! 
 
